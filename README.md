@@ -1,1 +1,1 @@
-## 2. project for IZP - Basics of programming
+# 2. project for IZP - Basics of programming
